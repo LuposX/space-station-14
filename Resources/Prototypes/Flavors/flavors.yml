@@ -833,3 +833,8 @@
   id: spaceshroomcooked
   flavorType: Complex
   description: flavor-complex-spaceshroom-cooked
+
+- type: flavor
+  id: deadmouse
+  flavorType: Complex
+  description: flavor-complex-deadmouse

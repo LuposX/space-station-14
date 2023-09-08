@@ -1015,6 +1015,10 @@
     price: 50
   - type: Puller
     needsHands: true
+  - type: FlavorProfile
+    flavors:
+      - meaty
+      - deadmouse
 
 - type: entity
   parent: MobMouse
