@@ -13,6 +13,15 @@ namespace Content.Server.Nutrition.EntitySystems;
 
 /// <summary>
 ///     Deals with flavor profiles when you eat something.
+///
+///     To add new flavours profiles to a food, follow the following process:
+///         1. edit flavor-profile.ftl add the new flavour
+///         2. edit flavors.yml
+///         3. Add the flavour to the entity doing the following:
+///             components:
+///             - type: FlavorProfile
+///               flavors:
+///                 - new_flavour
 /// </summary>
 public sealed class FlavorProfileSystem : EntitySystem
 {
