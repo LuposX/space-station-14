@@ -148,6 +148,7 @@ flavor-complex-plastic = like plastic
 flavor-complex-glue = like glue
 flavor-complex-spaceshroom-cooked = like space umami
 flavor-complex-deadmouse = bloody and gamy
+flavor-complex-chocolate-bar = cardboard
 
 # Drink-specific flavors.
 

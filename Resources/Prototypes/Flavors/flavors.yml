@@ -838,3 +838,9 @@
   id: deadmouse
   flavorType: Complex
   description: flavor-complex-deadmouse
+
+- type: flavor
+  id: chocolate-bar
+  flavorType: Complex
+  description: flavor-complex-chocolate-bar
+

@@ -121,6 +121,7 @@
   - type: FlavorProfile
     flavors:
       - chocolate
+      - chocolate-bar
   - type: Sprite
     state: chocolatebar-open
   - type: Item
